@@ -13,7 +13,7 @@ Este projeto simula um sorteio de amigo secreto usando lógica de programação 
 - JavaScript
 - Git & GitHub
 
-## 👨‍💻 Autor
+## Autor
 
 - Gomespy
 
